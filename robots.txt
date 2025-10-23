@@ -1,3 +1,3 @@
 User-agent: *
-Disallow:
-Sitemap: https://kayak.2828.ru/sitemap.xml
+Disallow: /a/a.php
+Host: canoe.2828.ru
